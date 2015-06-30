@@ -62,7 +62,7 @@ void setup() {
 }
 
 void loop() {
-    for(int i = 1; i < 10; i++ ) {
+    for(int i = 0; i < 10; i++ ) {
         if(!digitalRead(buttons[i][0])) {
             buttonPressed=i;
             delayMicroseconds(100);
