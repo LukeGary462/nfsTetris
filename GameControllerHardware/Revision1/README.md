@@ -2,6 +2,7 @@
 - PTW 2014, Tetris PreGame Workshop Revision
 - Some board errors, requires one jumper wire from vbus via to reset pullup resistor
 - 2 layer design
+- see the following instructables link for assembly instructions, but use files from this repository! http://www.instructables.com/id/Making-a-USB-Game-Controller/?ALLSTEPS
 
 ##pictures##
 ![img1](https://github.com/LukeGary462/nfsTetris/blob/master/GameControllerHardware/Revision1/images/FQMM0M0I06J92FK.LARGE.jpg)
