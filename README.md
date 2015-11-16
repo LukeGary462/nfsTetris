@@ -3,6 +3,7 @@ This was a project completed for a Philladelphia Tech Week 2014 workshop by Next
 Participants were asked to assemble and test USB Game Controller kits on a scaled model of the Cira Center.
 ##Cira Center in Philadelphia##
 ![Image of CiraCenter](http://www.philadelphia-reflections.com/images/lightcira.jpg)
+
 image credit, philadelphia-reflections
 ##Photo library of Tetris PreGame Event##
 https://www.flickr.com/photos/nextfabstudio/sets/72157643601412374
