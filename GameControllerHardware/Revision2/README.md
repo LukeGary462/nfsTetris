@@ -4,7 +4,6 @@
 - Optimize for hand placed smt assembly by using medium sized smd components, no smaller than 0603
 - Reduced number of through-hole components
 - improved supply decoupling and filtering
-- lower plane impeadance
 - 2-layer and 4-layer implementations
 - identical board outline and mechanical mounting holes
 - 3D step representation of board design as well as gerbers and odb++ archive
